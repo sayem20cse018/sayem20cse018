@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. Sayem Uddin Musa</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/56142392-cba8-4f65-94fe-6f5e01cd78cb">
+<img align="right" alt="coding" width="400" src="https://github.com/sayem20cse018/sayem20cse018/blob/main/02.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musa&label=Profile%20views&color=0e75b6&style=flat" alt="musa" /> </p>
